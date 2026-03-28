@@ -103,10 +103,10 @@
         Win-Fnc {
             display-name = "Win-Fnc";
             bindings = <
-&kp KP_N1       &kp KP_N2     &kp KP_N3    &kp KP_N4    &kp LC(F)                   &kp LESS_THAN         &kp GREATER_THAN       &kp CARET        &kp PERCENT    &kp DOLLAR
-&kp TAB         &kp LEFT_ALT  &kp LS(TAB)  &kp LA(TAB)  &mkp MB2                    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AT_SIGN      &kp AMPERSAND  &kp TILDE
-&kp LEFT_SHIFT  &trans        &trans       &trans       &mkp MB3   &kp C_VOLUME_UP  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp EXCLAMATION  &kp QUESTION   &kp SINGLE_QUOTE
-&kp LCTRL       &trans        &trans       &trans       &trans     &kp C_VOL_DN     &trans                &trans                 &kp BACKSPACE    &kp ENTER      &kp HASH
+&kp N1          &kp N2        &kp N3       &kp N4       &kp N5                     &kp LESS_THAN         &kp GREATER_THAN       &kp CARET        &kp PERCENT    &kp DOLLAR
+&kp TAB         &kp LEFT_ALT  &kp LS(TAB)  &kp LA(TAB)  &mkp MB2                   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AT_SIGN      &kp AMPERSAND  &kp TILDE
+&kp LEFT_SHIFT  &trans        &trans       &trans       &mkp MB3  &kp C_VOLUME_UP  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp EXCLAMATION  &kp QUESTION   &kp SINGLE_QUOTE
+&kp LCTRL       &trans        &trans       &trans       &trans    &kp C_VOL_DN     &trans                &trans                 &kp BACKSPACE    &kp ENTER      &kp HASH
             >;
         };
 
